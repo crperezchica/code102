@@ -1,2 +1,3 @@
-# Tuesday notes
-* how to use vi
+#TIL
+- operators
+<!--  -->
